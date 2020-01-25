@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="android:label">@color/colorPrimary</item>
+        <item name="android:button">@color/secondaryColor</item>
+        <item name="android:text">@color/textColor</item>
+        <item name="colorAccent">@color/adjacentColor</item>
+    </style>
+
+    <style name="delete">
+        <item name="android:button">@color/deleteColor</item>
+    </style>
+
+    <style name="textbackground">
+        <item name="colorPrimary">@color/textBackground</item>
+    </style>
+
+
+
+</resources>

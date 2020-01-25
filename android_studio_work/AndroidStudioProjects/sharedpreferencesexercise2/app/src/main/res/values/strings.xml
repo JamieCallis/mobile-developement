@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Preferences</string>
+    <string name="menu_update">Refresh Earthquakes</string>
+    <string name="auto_update_prompt">Auto refresh?</string>
+    <string name="update_freq_prompt">Refresh Frequency</string>
+    <string name="min_quake_mag_prompt">Minimum Quake Magnitude</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_report">Report</string>
+    <string name="title_activity_report_preferences">ReportPreferencesActivity</string>
+</resources>

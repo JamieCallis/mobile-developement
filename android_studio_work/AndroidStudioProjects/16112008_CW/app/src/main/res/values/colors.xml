@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="secondaryColor">#BB86FC</color>
+    <color name="adjacentColor">#03DAC6</color>
+    <color name="deleteColor">#B00020</color>
+    <color name="textColor">#707070</color>
+    <color name="textBackground">#E1E1E1</color>
+</resources>

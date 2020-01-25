@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">intents2</string>
+    <string name="title_activity_other">Other Activity</string>
+</resources>

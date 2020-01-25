@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SQLite Example</string>
+    <string name="title_activity_get_all_users">GetAllStaffMembersActivity</string>
+    <string name="title_activity_update_delete">UpdateDeleteActivity</string>
+
+</resources>
